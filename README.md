@@ -34,19 +34,7 @@ Build **OS** using **C**</li>
 </ol>
 
 
-<hr style="background-color: #4b4c60"></hr>
-<a id ="Contributors"></a>
 
-## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
-
-<br>
-<table >
-  <tr>
-        <td align="center"><a href="https://github.com/Ahmed-H300"><img src="https://avatars.githubusercontent.com/u/67925988?v=4" width="150px;" alt=""/><br /><sub><b>Ahmed Hany</b></sub></a><br /></td>
-  </tr>
-</table>
-
-<hr style="background-color: #4b4c60"></hr>
 
 <a id ="License"></a>
 
